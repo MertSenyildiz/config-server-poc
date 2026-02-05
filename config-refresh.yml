@@ -7,7 +7,7 @@ spring:
 
 poc:
   test: 123
-  test-a: "abc"
+  test-a: "cba"
 
 
 management:
