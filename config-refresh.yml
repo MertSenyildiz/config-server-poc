@@ -4,7 +4,7 @@ spring:
 
 poc:
   test: 123
-  testA: "abc"
+  testA: "cb testA"
 
 
 management:
