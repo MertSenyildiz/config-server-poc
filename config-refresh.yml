@@ -1,0 +1,17 @@
+spring:
+  application:
+    name: config-refresh
+
+  profiles:
+    active: dev
+
+poc:
+  test: 123
+  test-a: "abc"
+
+
+management:
+  endpoints:
+    web:
+      exposure:
+        include: health,info,refresh
