@@ -2,12 +2,9 @@ spring:
   application:
     name: config-refresh
 
-  profiles:
-    active: dev
-
 poc:
   test: 123
-  test-a: "abc"
+  testA: "abc"
 
 
 management:
